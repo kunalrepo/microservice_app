@@ -25,3 +25,4 @@ spec:
         - name: storage
           persistentVolumeClaim:
             claimName: mongo-pvc
+            
